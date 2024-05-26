@@ -1,0 +1,5 @@
+{
+  "screen.legendaryoptchecker.opt_not_found.title": "OPTIFINE NOT FOUND",
+  "screen.legendaryoptchecker.opt_not_found.text": "This modpack requires Optifine to run as intended",
+  "screen.legendaryoptchecker.opt_not_found.open_link": "Open optifine.net website"
+}
